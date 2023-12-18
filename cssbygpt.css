@@ -1,0 +1,66 @@
+/* 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Typing Learning App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    #container {
+      max-width: 500px;
+      padding: 20px;
+      border-radius: 10px;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+
+    #prompt {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    #sentence {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    #meaning {
+      font-size: 16px;
+      margin-bottom: 20px;
+      color: #777;
+    }
+
+    .green {
+      color: green;
+    }
+
+    .red {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <div id="prompt">Please start learning to type with this classic English language pangram.</div>
+    <div id="sentence"></div>
+    <div id="meaning"></div>
+  </div>
+
+  <script>
+    // Your JavaScript code goes here
+  </script>
+</body>
+</html>
+
+ */

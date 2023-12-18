@@ -1,0 +1,19 @@
+.darkGreen{
+    color:green;
+  }
+  .green {
+    color: greenyellow;
+  }
+  .red {
+    color: red;
+  }
+  *{
+      text-align: center;
+  }
+  #prompt{
+      font-size: 15px;
+  }
+  #sentence{
+      text-shadow: 2px 0.7px rgb(199, 183, 183) ;
+      font-size: 45px;
+  }
